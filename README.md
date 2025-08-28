@@ -92,7 +92,7 @@ Right-click a vendor → Drillthrough → Vendor Deep Dive
 
 View Low Turnover Vendors table (Top 10 smallest stock turnover)
 
-![Alt text]()
+![Alt text](dashboard.png)
 
 
 
